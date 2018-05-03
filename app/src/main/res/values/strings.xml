@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HELLOO</string>
+    <string name="a">HELLO DUDE</string>
+    <string name="nama1">Nama : Novan Setiya</string>
+    <string name="lahir">lahir : Jakarta</string>
+    <string name="Tinggal">tinggal : Jakarta Barat</string>
+    <string name="hobi">Hobi : - </string>
+    <string name="keterangan">keteranan : hey iam a man, No Dude</string>
+
+</resources>
